@@ -1,4 +1,5 @@
 # Test Automation Portal
+# Projeto para treino pessoal com automação de testes com Java
 Projeto de Suporte aos Alunos do curso de automação de testes fullstack do professor Tiago Samuel Rodrigues Teixeira. Com esse projeto é possível criar testes unitários, integrados, de sistemas e de aceite. Utilizando as principais ferramentas open source de testes do mercado (JUnit, Cucumber, RestAssured, Mockito, PITest e etc.).
 
 ## Build e Implantação
